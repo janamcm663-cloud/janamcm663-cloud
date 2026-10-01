@@ -1,9 +1,8 @@
-## Hi there 👋
+# ¡Hola, mundo! 👋 Soy Jana
 
-<!--
-**janamcm663-cloud/janamcm663-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi perfil de GitHub. Actualmente estoy cursando el **Máster en Datos e Inteligencia Artificial** 🚀.
 
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
